@@ -1,0 +1,824 @@
+﻿We all know the power of the killer app. Over
+the years, groundbreaking systems from companies
+such as American Airlines (electronic
+reservations), Otis Elevator (predictive maintenance),
+and American Hospital Supply (online
+ordering) have dramatically boosted their
+creators’ revenues and reputations. These heralded—
+and coveted—applications amassed
+and applied data in ways that upended customer
+expectations and optimized operations
+to unprecedented degrees. They transformed
+technology from a supporting tool into a strategic
+weapon.
+Companies questing for killer apps generally
+focus all their firepower on the one area that
+promises to create the greatest competitive advantage.
+But a new breed of company is upping
+the stakes. Organizations such as Amazon,
+Harrah’s, Capital One, and the Boston Red
+Sox have dominated their fields by deploying
+industrial-strength analytics across a wide variety
+of activities. In essence, they are transforming
+their organizations into armies of killer
+apps and crunching their way to victory.
+Organizations are competing on analytics
+not just because they can—business today is
+awash in data and data crunchers—but also because
+they should. At a time when firms in
+many industries offer similar products and use
+comparable technologies, business processes
+are among the last remaining points of differentiation.
+And analytics competitors wring
+every last drop of value from those processes.
+So, like other companies, they know what
+products their customers want, but they also
+know what prices those customers will pay,
+how many items each will buy in a lifetime,
+and what triggers will make people buy more.
+Like other companies, they know compensation
+costs and turnover rates, but they can also
+calculate how much personnel contribute to or
+detract from the bottom line and how salary
+levels relate to individuals’ performance. Like
+other companies, they know when inventories
+are running low, but they can also predict
+problems with demand and supply chains, to
+achieve low rates of inventory and high rates
+of perfect orders.
+Competing on Analytics
+harvard business review • january 2006 page 3
+And analytics competitors do all those
+things in a coordinated way, as part of an overarching
+strategy championed by top leadership
+and pushed down to decision makers at every
+level. Employees hired for their expertise with
+numbers or trained to recognize their importance
+are armed with the best evidence and
+the best quantitative tools. As a result, they
+make the best decisions: big and small, every
+day, over and over and over.
+Although numerous organizations are embracing
+analytics, only a handful have achieved
+this level of proficiency. But analytics competitors
+are the leaders in their varied fields—consumer
+products, finance, retail, and travel and
+entertainment among them. Analytics has been
+instrumental to Capital One, which has exceeded
+20% growth in earnings per share every
+year since it became a public company. It has allowed
+Amazon to dominate online retailing and
+turn a profit despite enormous investments in
+growth and infrastructure. In sports, the real secret
+weapon isn’t steroids, but stats, as dramatic
+victories by the Boston Red Sox, the New England
+Patriots, and the Oakland A’s attest.
+At such organizations, virtuosity with data is
+often part of the brand. Progressive makes advertising
+hay from its detailed parsing of individual
+insurance rates. Amazon customers can
+watch the company learning about them as its
+service grows more targeted with frequent purchases.
+Thanks to Michael Lewis’s best-selling
+book
+Moneyball,
+which demonstrated the
+power of statistics in professional baseball, the
+Oakland A’s are almost as famous for their
+geeky number crunching as they are for their
+athletic prowess.
+To identify characteristics shared by analytics
+competitors, I and two of my colleagues at
+Babson College’s Working Knowledge Research
+Center studied 32 organizations that
+have made a commitment to quantitative, factbased
+analysis. Eleven of those organizations
+we classified as full-bore analytics competitors,
+meaning top management had announced
+that analytics was key to their strategies; they
+had multiple initiatives under way involving
+complex data and statistical analysis, and they
+managed analytical activity at the enterprise
+(not departmental) level.
+This article lays out the characteristics and
+practices of these statistical masters and describes
+some of the very substantial changes
+other companies must undergo in order to
+compete on quantitative turf. As one would expect,
+the transformation requires a significant
+investment in technology, the accumulation of
+massive stores of data, and the formulation of
+companywide strategies for managing the
+data. But at least as important, it requires executives’
+vocal, unswerving commitment and
+willingness to change the way employees
+think, work, and are treated. As Gary Loveman,
+CEO of analytics competitor Harrah’s,
+frequently puts it, “Do we think this is true? Or
+do we know?”
+Anatomy of an Analytics
+Competitor
+One analytics competitor that’s at the top of its
+game is Marriott International. Over the past
+20 years, the corporation has honed to a science
+its system for establishing the optimal price for
+guest rooms (the key analytics process in hotels,
+known as revenue management). Today, its ambitions
+are far grander. Through its Total Hotel
+Optimization program, Marriott has expanded
+its quantitative expertise to areas such as conference
+facilities and catering, and made related
+tools available over the Internet to property
+revenue managers and hotel owners. It has
+developed systems to optimize offerings to frequent
+customers and assess the likelihood of
+those customers’ defecting to competitors. It
+has given local revenue managers the power to
+override the system’s recommendations when
+certain local factors can’t be predicted (like the
+large number of Hurricane Katrina evacuees arriving
+in Houston). The company has even created
+a revenue opportunity model, which computes
+actual revenues as a percentage of the
+optimal rates that could have been charged.
+That figure has grown from 83% to 91% as Marriott’s
+revenue-management analytics has
+taken root throughout the enterprise. The
+word is out among property owners and franchisees:
+If you want to squeeze the most revenue
+from your inventory, Marriott’s approach
+is the ticket.
+Clearly, organizations such as Marriott don’t
+behave like traditional companies. Customers
+notice the difference in every interaction; employees
+and vendors live the difference every
+day. Our study found three key attributes
+among analytics competitors:
+Widespread use of modeling and optimization.
+Any company can generate simple descriptive
+statistics about aspects of its busi-
+ness—average revenue per employee, for example,
+or average order size. But analytics
+competitors look well beyond basic statistics.
+These companies use predictive modeling to
+identify the most profitable customers—plus
+those with the greatest profit potential and
+the ones most likely to cancel their accounts.
+They pool data generated in-house and data
+acquired from outside sources (which they analyze
+more deeply than do their less statistically
+savvy competitors) for a comprehensive
+understanding of their customers. They optimize
+their supply chains and can thus determine
+the impact of an unexpected constraint,
+simulate alternatives, and route shipments
+around problems. They establish prices in real
+time to get the highest yield possible from
+each of their customer transactions. They create
+complex models of how their operational
+costs relate to their financial performance.
+Leaders in analytics also use sophisticated
+experiments to measure the overall impact or
+“lift” of intervention strategies and then apply
+the results to continuously improve subsequent
+analyses. Capital One, for example, conducts
+more than 30,000 experiments a year,
+with different interest rates, incentives, directmail
+packaging, and other variables. Its goal is
+to maximize the likelihood both that potential
+customers will sign up for credit cards and that
+they will pay back Capital One.
+Progressive employs similar experiments
+using widely available insurance industry data.
+The company defines narrow groups, or cells,
+of customers: for example, motorcycle riders
+ages 30 and above, with college educations,
+credit scores over a certain level, and no accidents.
+For each cell, the company performs a
+regression analysis to identify factors that most
+closely correlate with the losses that group engenders.
+It then sets prices for the cells, which
+should enable the company to earn a profit
+across a portfolio of customer groups, and uses
+simulation software to test the financial implications
+of those hypotheses. With this approach,
+Progressive can profitably insure customers
+in traditionally high-risk categories.
+Other insurers reject high-risk customers out
+of hand, without bothering to delve more
+deeply into the data (although even traditional
+competitors, such as Allstate, are starting to
+embrace analytics as a strategy).
+An enterprise approach.
+Analytics competitors
+understand that most business functions—
+even those, like marketing, that have
+historically depended on art rather than science—
+can be improved with sophisticated
+quantitative techniques. These organizations
+don’t gain advantage from one killer app, but
+rather from multiple applications supporting
+many parts of the business—and, in a few
+cases, being rolled out for use by customers
+and suppliers.
+UPS embodies the evolution from targeted
+analytics user to comprehensive analytics competitor.
+Although the company is among the
+world’s most rigorous practitioners of operations
+research and industrial engineering, its capabilities
+were, until fairly recently, narrowly
+focused. Today, UPS is wielding its statistical
+skill to track the movement of packages and to
+anticipate and influence the actions of people—
+assessing the likelihood of customer attrition
+and identifying sources of problems. The
+UPS Customer Intelligence Group, for example,
+is able to accurately predict customer defections
+by examining usage patterns and complaints.
+When the data point to a potential
+defector, a salesperson contacts that customer
+to review and resolve the problem, dramatically
+reducing the loss of accounts. UPS still lacks the
+breadth of initiatives of a full-bore analytics
+competitor, but it is heading in that direction.
+Analytics competitors treat all such activities
+from all provenances as a single, coherent initiative,
+often massed under one rubric, such as
+“information-based strategy” at Capital One or
+“information-based customer management” at
+Barclays Bank. These programs operate not
+just under a common label but also under
+common leadership and with common technology
+and tools. In traditional companies,
+“business intelligence” (the term IT people use
+for analytics and reporting processes and software)
+is generally managed by departments;
+number-crunching functions select their own
+tools, control their own data warehouses, and
+train their own people. But that way, chaos
+lies. For one thing, the proliferation of userdeveloped
+spreadsheets and databases inevitably
+leads to multiple versions of key indicators
+within an organization. Furthermore, research
+has shown that between 20% and 40% of
+spreadsheets contain errors; the more spreadsheets
+floating around a company, therefore,
+the more fecund the breeding ground for mistakes.
+Analytics competitors, by contrast, field
+centralized groups to ensure that critical data
+Employees hired for their
+expertise with numbers
+or trained to recognize
+their importance are
+armed with the best
+evidence and the best
+quantitative tools. As a
+result, they make the best
+decisions.
+Competing on Analytics
+harvard business review • january 2006 page 5
+and other resources are well managed and that
+different parts of the organization can share
+data easily, without the impediments of inconsistent
+formats, definitions, and standards.
+Some analytics competitors apply the same
+enterprise approach to people as to technology.
+Procter & Gamble, for example, recently
+created a kind of überanalytics group consisting
+of more than 100 analysts from such functions
+as operations, supply chain, sales, consumer
+research, and marketing. Although
+most of the analysts are embedded in business
+operating units, the group is centrally managed.
+As a result of this consolidation, P&G
+can apply a critical mass of expertise to its
+most pressing issues. So, for example, sales and
+marketing analysts supply data on opportunities
+for growth in existing markets to analysts
+who design corporate supply networks. The
+supply chain analysts, in turn, apply their expertise
+in certain decision-analysis techniques
+to such new areas as competitive intelligence.
+The group at P&G also raises the visibility of
+analytical and data-based decision making
+within the company. Previously, P&G’s crack
+analysts had improved business processes and
+saved the firm money; but because they were
+squirreled away in dispersed domains, many
+executives didn’t know what services they offered
+or how effective they could be. Now
+those executives are more likely to tap the
+company’s deep pool of expertise for their
+projects. Meanwhile, masterful number
+crunching has become part of the story P&G
+tells to investors, the press, and the public.
+Senior executive advocates.
+A companywide
+embrace of analytics impels changes in culture,
+processes, behavior, and skills for many
+employees. And so, like any major transition,
+it requires leadership from executives at the
+very top who have a passion for the quantitative
+approach. Ideally, the principal advocate
+is the CEO. Indeed, we found several chief executives
+who have driven the shift to analytics
+at their companies over the past few years, including
+Loveman of Harrah’s, Jeff Bezos of
+Amazon, and Rich Fairbank of Capital One.
+Before he retired from the Sara Lee Bakery
+Group, former CEO Barry Beracha kept a sign
+on his desk that summed up his personal and
+organizational philosophy: “In God we trust.
+All others bring data.” We did come across
+some companies in which a single functional
+or business unit leader was trying to push analytics
+throughout the organization, and a few
+were making some progress. But we found
+that these lower-level people lacked the clout,
+the perspective, and the cross-functional scope
+to change the culture in any meaningful way.
+CEOs leading the analytics charge require
+both an appreciation of and a familiarity with
+the subject. A background in statistics isn’t necessary,
+but those leaders must understand the
+theory behind various quantitative methods so
+Going to Bat for Stats
+The analysis-versus-instinct debate, a favorite
+of political commentators during the last
+two U.S. presidential elections, is raging in
+professional sports, thanks to several popular
+books and high-profile victories. For now,
+analysis seems to hold the lead.
+Most notably, statistics are a major part of
+the selection and deployment of players.
+Moneyball,
+by Michael Lewis, focuses on the use of
+analytics in player selection for the Oakland
+A’s—a team that wins on a shoestring. The
+New England Patriots, a team that devotes an
+enormous amount of attention to statistics,
+won three of the last four Super Bowls, and
+their payroll is currently ranked 24th in the
+league. The Boston Red Sox have embraced
+“sabermetrics” (the application of analysis to
+baseball), even going so far as to hire Bill
+James, the famous baseball statistician who
+popularized that term. Analytic HR strategies
+are taking hold in European soccer as well.
+One leading team, Italy’s A.C. Milan, uses predictive
+models from its Milan Lab research
+center to prevent injuries by analyzing physiological,
+orthopedic, and psychological data
+from a variety of sources. A fast-rising English
+soccer team, the Bolton Wanderers, is known
+for its manager’s use of extensive data to evaluate
+players’ performance.
+Still, sports managers—like business leaders—
+are rarely fact-or-feeling purists. St. Louis
+Cardinals manager Tony La Russa, for example,
+brilliantly combines analytics with intuition
+to decide when to substitute a chargedup
+player in the batting lineup or whether to
+hire a spark-plug personality to improve morale.
+In his recent book,
+Three Nights in August,
+Buzz Bissinger describes that balance: “La
+Russa appreciated the information generated
+by computers. He studied the rows and the
+columns. But he also knew they could take you
+only so far in baseball, maybe even confuse
+you with a fog of overanalysis. As far as he
+knew, there was no way to quantify desire.
+And those numbers told him exactly what he
+needed to know when added to twenty-four
+years of managing experience.”
+That final sentence is the key. Whether
+scrutinizing someone’s performance record
+or observing the expression flitting across an
+employee’s face, leaders consult their own experience
+to understand the “evidence” in all
+its forms.
+Competing on Analytics
+harvard business review • january 2006 page 6
+that they recognize those methods’ limitations—
+which factors are being weighed and
+which ones aren’t. When the CEOs need help
+grasping quantitative techniques, they turn to
+experts who understand the business and how
+analytics can be applied to it. We interviewed
+several leaders who had retained such advisers,
+and these executives stressed the need to find
+someone who can explain things in plain language
+and be trusted not to spin the numbers.
+A few CEOs we spoke with had surrounded
+themselves with very analytical people—professors,
+consultants, MIT graduates, and the
+like. But that was a personal preference rather
+than a necessary practice.
+Of course, not all decisions should be
+grounded in analytics—at least not wholly so.
+Personnel matters, in particular, are often well
+and appropriately informed by instinct and anecdote.
+More organizations are subjecting recruiting
+and hiring decisions to statistical analysis
+(see the sidebar “Going to Bat for Stats”).
+But research shows that human beings can
+make quick, surprisingly accurate assessments
+of personality and character based on simple
+observations. For analytics-minded leaders,
+then, the challenge boils down to knowing
+when to run with the numbers and when to
+run with their guts.
+Their Sources of Strength
+Analytics competitors are more than simple
+number-crunching factories. Certainly, they
+apply technology—with a mixture of brute
+force and finesse—to multiple business problems.
+But they also direct their energies toward
+finding the right focus, building the right
+culture, and hiring the right people to make
+optimal use of the data they constantly churn.
+In the end, people and strategy, as much as information
+technology, give such organizations
+strength.
+The right focus.
+Although analytics competitors
+encourage universal fact-based decisions,
+they must choose where to direct resourceintensive
+efforts. Generally, they pick several
+functions or initiatives that together serve an
+overarching strategy. Harrah’s, for example,
+has aimed much of its analytical activity at increasing
+customer loyalty, customer service,
+and related areas like pricing and promotions.
+UPS has broadened its focus from logistics to
+customers, in the interest of providing superior
+service. While such multipronged strate-
+allocating resources
+is how amenable certain functions are
+to deep analysis. There are at least seven common
+targets for analytical activity, and specific
+industries may present their own (see “Things
+You Can Count On”). Statistical models and algorithms
+that dangle the possibility of performance
+breakthroughs make some prospects especially
+tempting. Marketing, for example, has
+always been tough to quantify because it is
+rooted in psychology. But now consumer products
+companies can hone their market research
+using multiattribute utility theory—a
+tool for understanding and predicting consumer
+behaviors and decisions. Similarly, the
+advertising industry is adopting econometrics—
+statistical techniques for measuring the
+lift provided by different ads and promotions
+over time.
+The most proficient analytics practitioners
+don’t just measure their own navels—they also
+help customers and vendors measure theirs.
+Wal-Mart, for example, insists that suppliers
+use its Retail Link system to monitor product
+movement by store, to plan promotions and
+layouts within stores, and to reduce stock-outs.
+E.&J. Gallo provides distributors with data and
+analysis on retailers’ costs and pricing so they
+can calculate the per-bottle profitability for
+each of Gallo’s 95 wines. The distributors, in
+turn, use that information to help retailers optimize
+their mixes while persuading them to
+add shelf space for Gallo products. Procter &
+Gamble offers data and analysis to its retail customers,
+as part of a program called Joint Value
+Creation, and to its suppliers to help improve
+responsiveness and reduce costs. Hospital supplier
+Owens & Minor furnishes similar services,
+enabling customers and suppliers to access and
+analyze their buying and selling data, track ordering
+patterns in search of consolidation opportunities,
+and move off-contract purchases
+to group contracts that include products distributed
+by Owens & Minor and its competitors.
+For example, Owens & Minor might show
+a hospital chain’s executives how much money
+they could save by consolidating purchases
+across multiple locations or help them see the
+trade-offs between increasing delivery frequency
+and carrying inventory.
+The right culture.
+Culture is a soft concept;
+analytics is a hard discipline. Nonetheless, analytics
+competitors must instill a companywide
+respect for measuring, testing, and evaluating
+quantitative evidence. Employees are
+urged to base decisions on hard facts. And they
+know that their performance is gauged the
+same way. Human resource organizations
+within analytics competitors are rigorous
+about applying metrics to compensation and
+rewards. Harrah’s, for example, has made a
+dramatic change from a rewards culture based
+on paternalism and tenure to one based on
+such meticulously collected performance
+measurements as financial and customer service
+results. Senior executives also set a consistent
+example with their own behavior, exhibiting
+a hunger for and confidence in fact and
+analysis. One exemplar of such leadership was
+Beracha of the Sara Lee Bakery Group, known
+to his employees as a “data dog” because he
+hounded them for data to support any assertion
+or hypothesis.
+Not surprisingly, in an analytics culture,
+there’s sometimes tension between innovative
+or entrepreneurial impulses and the requirement
+for evidence. Some companies place less
+emphasis on blue-sky development, in which
+designers or engineers chase after a gleam in
+someone’s eye. In these organizations, R&D,
+like other functions, is rigorously metricdriven.
+At Yahoo, Progressive, and Capital One,
+process and product changes are tested on a
+small scale and implemented as they are validated.
+That approach, well established within
+various academic and business disciplines (including
+engineering, quality management, and
+psychology), can be applied to most corporate
+processes—even to not-so-obvious candidates,
+like human resources and customer service.
+HR, for example, might create profiles of managers’
+personality traits and leadership styles
+and then test those managers in different situations.
+It could then compare data on individuals’
+performance with data about personalities
+to determine what traits are most important to
+managing a project that is behind schedule,
+say, or helping a new group to assimilate.
+There are, however, instances when a decision
+to change something or try something
+new must be made too quickly for extensive
+analysis, or when it’s not possible to gather data
+beforehand. For example, even though Ama-
+In traditional companies,
+departments manage
+analytics —numbercrunching
+functions
+select their own tools and
+train their own people.
+But that way, chaos lies.
+Competing on Analytics
+harvard business review • january 2006 page 8
+zon’s Jeff Bezos greatly prefers to rigorously
+quantify users’ reactions before rolling out new
+features, he couldn’t test the company’s searchinside-
+the-book offering without applying it to
+a critical mass of books (120,000, to begin
+with). It was also expensive to develop, and that
+increased the risk. In this case, Bezos trusted his
+instincts and took a flier. And the feature did
+prove popular when introduced.
+The right people.
+Analytical firms hire analytical
+people—and like all companies that
+compete on talent, they pursue the best.
+When Amazon needed a new head for its global
+supply chain, for example, it recruited
+Gang Yu, a professor of management science
+and software entrepreneur who is one of the
+world’s leading authorities on optimization
+analytics. Amazon’s business model requires
+the company to manage a constant flow of
+new products, suppliers, customers, and promotions,
+as well as deliver orders by promised
+dates. Since his arrival, Yu and his team have
+been designing and building sophisticated
+supply chain systems to optimize those processes.
+And while he tosses around phrases like
+“nonstationary stochastic processes,” he’s also
+good at explaining the new approaches to Amazon’s
+executives in clear business terms.
+Established analytics competitors such as
+Capital One employ squadrons of analysts to
+conduct quantitative experiments and, with the
+results in hand, design credit card and other financial
+offers. These efforts call for a specialized
+skill set, as you can see from this job description
+(typical for a Capital One analyst):
+High conceptual problem-solving and
+quantitative analytical aptitudes…Engineering,
+financial, consulting, and/or other analytical
+quantitative educational/work background.
+Ability to quickly learn how to use software applications.
+Experience with Excel models. Some
+graduate work preferred but not required (e.g.,
+MBA). Some experience with project management
+methodology, process improvement
+tools (Lean, Six Sigma), or statistics preferred.
+Other firms hire similar kinds of people, but
+analytics competitors have them in much
+greater numbers. Capital One is currently
+seeking three times as many analysts as operations
+people—hardly the common practice for
+a bank. “We are really a company of analysts,”
+one executive there noted. “It’s the primary
+job in this place.”
+Good analysts must also have the ability to
+express complex ideas in simple terms and
+have the relationship skills to interact well
+with decision makers. One consumer products
+company with a 30-person analytics group
+looks for what it calls “PhDs with personality”—
+people with expertise in math, statistics,
+and data analysis who can also speak the language
+of business and help market their work
+internally and sometimes externally. The head
+of a customer analytics group at Wachovia
+Bank describes the rapport with others his
+group seeks: “We are trying to build our people
+as part of the business team,” he explains. “We
+want them sitting at the business table, participating
+in a discussion of what the key issues
+are, determining what information needs the
+businesspeople have, and recommending actions
+to the business partners. We want this
+[analytics group] to be not just a general utility,
+but rather an active and critical part of the
+business unit’s success.”
+Of course, a combination of analytical, business,
+and relationship skills may be difficult to
+find. When the software company SAS (a sponsor
+of this research, along with Intel) knows it
+will need an expert in state-of-the-art business
+applications such as predictive modeling or recursive
+partitioning (a form of decision tree
+analysis applied to very complex data sets), it
+begins recruiting up to 18 months before it expects
+to fill the position.
+In fact, analytical talent may be to the early
+2000s what programming talent was to the
+late 1990s. Unfortunately, the U.S. and European
+labor markets aren’t exactly teeming
+with analytically sophisticated job candidates.
+Some organizations cope by contracting work
+to countries such as India, home to many statistical
+experts. That strategy may succeed
+when offshore analysts work on stand-alone
+problems. But if an iterative discussion with
+business decision makers is required, the distance
+can become a major barrier.
+The right technology.
+Competing on analytics
+means competing on technology. And
+while the most serious competitors investigate
+the latest statistical algorithms and decision
+science approaches, they also constantly monitor
+and push the IT frontier. The analytics
+group at one consumer products company
+went so far as to build its own supercomputer
+because it felt that commercially available
+models were inadequate for its demands. Such
+heroic feats usually aren’t necessary, but seri-
+The most proficient
+analytics practitioners
+don’t just measure their
+own navels—they also
+help customers and
+vendors measure theirs.
+Competing on Analytics
+harvard business review • january 2006 page 9
+ous analytics does require the following:
+A data strategy.
+Companies have invested
+many millions of dollars in systems that snatch
+data from every conceivable source. Enterprise
+resource planning, customer relationship
+management, point-of-sale, and other systems
+ensure that no transaction or other
+significant exchange occurs without leaving a
+mark. But to compete on that information,
+companies must present it in standard formats,
+integrate it, store it in a data warehouse,
+and make it easily accessible to anyone and everyone.
+And they will need
+a lot
+of it. For example,
+a company may spend several years accumulating
+data on different marketing
+approaches before it has gathered enough to
+reliably analyze the effectiveness of an advertising
+campaign. Dell employed DDB Matrix,
+a unit of the advertising agency DDB Worldwide,
+to create (over a period of seven years) a
+database that includes 1.5 million records on
+all the computer maker’s print, radio, network
+TV, and cable ads, coupled with data on Dell
+sales for each region in which the ads appeared
+(before and after their appearance).
+That information allows Dell to fine-tune its
+promotions for every medium in every region.
+Business intelligence software.
+The term
+“business intelligence,” which first popped up
+in the late 1980s, encompasses a wide array of
+processes and software used to collect, analyze,
+and disseminate data, all in the interests
+of better decision making. Business intelligence
+tools allow employees to extract, transform,
+and load (or ETL, as people in the industry
+would say) data for analysis and then make
+those analyses available in reports, alerts, and
+scorecards. The popularity of analytics competition
+is partly a response to the emergence of
+integrated packages of these tools.
+Computing hardware.
+The volumes of data
+required for analytics applications may strain
+the capacity of low-end computers and servers.
+Many analytics competitors are converting
+their hardware to 64-bit processors that
+churn large amounts of data quickly.
+The Long Road Ahead
+Most companies in most industries have excellent
+reasons to pursue strategies shaped by analytics.
+Virtually all the organizations we identified
+as aggressive analytics competitors are
+clear leaders in their fields, and they attribute
+much of their success to the masterful exploitation
+of data. Rising global competition intensifies
+the need for this sort of proficiency.
+Western companies unable to beat their Indian
+or Chinese competitors on product cost,
+for example, can seek the upper hand through
+optimized business processes.
+Companies just now embracing such strategies,
+however, will find that they take several
+years to come to fruition. The organizations in
+our study described a long, sometimes arduous
+journey. The UK Consumer Cards and Loans
+business within Barclays Bank, for example,
+spent five years executing its plan to apply analytics
+to the marketing of credit cards and
+other financial products. The company had to
+make process changes in virtually every aspect
+of its consumer business: underwriting risk,
+setting credit limits, servicing accounts, controlling
+fraud, cross selling, and so on. On the
+technical side, it had to integrate data on 10
+million Barclaycard customers, improve the
+quality of the data, and build systems to step
+up data collection and analysis. In addition, the
+company embarked on a long series of small
+tests to begin learning how to attract and retain
+the best customers at the lowest price.
+And it had to hire new people with top-drawer
+quantitative skills.
+Much of the time—and corresponding expense—
+that any company takes to become an
+analytics competitor will be devoted to technological
+tasks: refining the systems that produce
+transaction data, making data available in
+warehouses, selecting and implementing analytic
+software, and assembling the hardware
+and communications environment. And because
+those who don’t record history are
+doomed not to learn from it, companies that
+have collected little information—or the
+wrong kind—will need to amass a sufficient
+body of data to support reliable forecasting.
+“We’ve been collecting data for six or seven
+years, but it’s only become usable in the last
+two or three, because we needed time and experience
+to validate conclusions based on the
+data,” remarked a manager of customer data
+analytics at UPS.
+And, of course, new analytics competitors
+will have to stock their personnel larders with
+fresh people. (When Gary Loveman became
+COO, and then CEO, of Harrah’s, he brought in
+a group of statistical experts who could design
+and implement quantitatively based marketing
+campaigns and loyalty programs.) Existing employees,
+meanwhile, will require extensive training.
+They need to know what data are available
+and all the ways the information can be analyzed;
+and they must learn to recognize such peculiarities
+and shortcomings as missing data, duplication,
+and quality problems. An analyticsminded
+executive at Procter & Gamble suggested
+to me that firms should begin to keep
+managers in their jobs for longer periods because
+of the time required to master quantitative
+approaches to their businesses.
+The German pathologist Rudolph Virchow
+famously called the task of science “to stake
+out the limits of the knowable.” Analytics competitors
+pursue a similar goal, although the
+universe they seek to know is a more circumscribed
+one of customer behavior, product
+movement, employee performance, and financial
+reactions. Every day, advances in technology
+and techniques give companies a better
+and better handle on the critical minutiae of
+their operations.
+The Oakland A’s aren’t the only ones playing
+moneyball. Companies of every stripe want to
+be part of the game.
