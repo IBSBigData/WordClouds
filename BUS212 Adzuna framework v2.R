@@ -103,5 +103,5 @@ wordcloud(words=names(wordFreq), freq=wordFreq, max.words=75,scale = c(2, 0.2), 
 
 lim <- 0.5  # feel free to change this!
 myterms <- c("term1", "term2","term3")
-findAssocs(tdm,myterms, corlimit=lim)
+findAssocs(dtm, myterms, corlimit=lim)
 
