@@ -29,6 +29,7 @@ corpus <- Corpus(VectorSource(text))
 corpus <- tm_map(corpus, tolower)  #make all text lower case
 corpus <- tm_map(corpus, removePunctuation) #remove all punctuation
 corpus <- tm_map(corpus, removeNumbers) # remove numbers
+cleanset <- corpus
 
 # apply standard English stopwords, and add other words of your choice
 # remove "big" or other relevant from English stop words
@@ -38,8 +39,9 @@ myStopwords <- c(stopwords('english'), custom)
 keepwords <- c("one","two", etc) # words of your choice
 myStopwords <- setdiff(myStopwords, keepwords)
 
-# now remove stopwords from the corpus
-cleanset <- tm_map(corpus, removeWords, myStopwords)
+# now prepare "cleanset" by removing stopwords, extra white space and then stem the corpus
+
+cleanset <- tm_map(cleanset, removeWords, myStopwords)
 cleanset <- tm_map(cleanset, stripWhitespace) # purge extra white space
 cleanset <-tm_map(cleanset,stemDocument) # now stem -
 
